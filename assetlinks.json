@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.expedia.epclinktest",
+    "sha256_cert_fingerprints":
+    ["7C:6A:8F:8B:A7:3A:21:AF:94:1C:F6:B9:2E:13:AA:92:7E:B1:42:8C:4A:4E:9F:1E:FF:95:DC:9D:72:A4:76:E7"]
+  }
+}]
