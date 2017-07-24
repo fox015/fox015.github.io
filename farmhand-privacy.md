@@ -1,0 +1,1 @@
+Ninety Four Computer promises not to share any user data with third parties. We collect data for debugging and analytical purposes only.
