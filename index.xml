@@ -12,12 +12,13 @@
     
     
     <item>
-      <title>Test Post</title>
-      <link>https://fox015.github.io/posts/test-post/</link>
+      <title>A presence</title>
+      <link>https://fox015.github.io/posts/first/</link>
       <pubDate>Mon, 04 Feb 2019 21:39:13 +1000</pubDate>
       
-      <guid>https://fox015.github.io/posts/test-post/</guid>
-      <description></description>
+      <guid>https://fox015.github.io/posts/first/</guid>
+      <description>I&amp;rsquo;ve been thinking about the best place on the web to talk about some of the things I do for a while now, and have decided to just bite the bullet and build a blog.
+After a short amount of research I decided to go with Hugo, and I&amp;rsquo;m currently hosting this using Github pages (I&amp;rsquo;ll sort out a custom domain soon). I like the idea of static site generation tools combined with markdown, and Hugo seems faster than Jekyll (from the small amount of reading I did).</description>
     </item>
     
   </channel>
