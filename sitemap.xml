@@ -3,8 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://fox015.github.io/posts/first/</loc>
+    <loc>https://fox015.github.io/projects/game/</loc>
+    <lastmod>2019-02-09T14:46:03+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fox015.github.io/home/</loc>
+    <lastmod>2019-02-09T14:21:55+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fox015.github.io/blog/a-presence/</loc>
     <lastmod>2019-02-04T21:39:13+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fox015.github.io/blog/</loc>
+    <lastmod>2019-02-04T21:39:13+10:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -13,14 +29,14 @@
   </url>
   
   <url>
-    <loc>https://fox015.github.io/posts/</loc>
-    <lastmod>2019-02-04T21:39:13+10:00</lastmod>
+    <loc>https://fox015.github.io/projects/</loc>
+    <lastmod>2019-02-09T14:46:03+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://fox015.github.io/</loc>
-    <lastmod>2019-02-04T21:39:13+10:00</lastmod>
+    <lastmod>2019-02-09T14:46:03+10:00</lastmod>
     <priority>0</priority>
   </url>
   
