@@ -14,9 +14,9 @@
 <meta property="og:site_name" content="Sleep Forever" />
 <meta property="og:locale" content="en-US" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://fox015.github.io/projects/game/" />
-<meta property="og:title" content="Cross platform 2.5D side scrolling game engine" />
-<meta property="twitter:title" content="Cross platform 2.5D side scrolling game engine">
+<meta property="og:url" content="https://fox015.github.io/projects/farmhand/" />
+<meta property="og:title" content="Farmhand: A multi-function monitor for precision agriculture" />
+<meta property="twitter:title" content="Farmhand: A multi-function monitor for precision agriculture">
 
     <meta property="og:image" content="https://fox015.github.io/img/banner.png">
     <meta property="twitter:card" content="summary_large_image">
@@ -28,10 +28,10 @@
 <title>
 
 
-     Sleep Forever - Cross platform 2.5D side scrolling game engine 
+     Sleep Forever - Farmhand: A multi-function monitor for precision agriculture 
 
 </title>
-<link rel="canonical" href="https://fox015.github.io/projects/game/">
+<link rel="canonical" href="https://fox015.github.io/projects/farmhand/">
 
 
 <style media="screen">
@@ -1030,7 +1030,7 @@ margin-left: -4%;
             <div class="page-heading">
 
     
-    Draft::Cross platform 2.5D side scrolling game engine
+    Farmhand: A multi-function monitor for precision agriculture
     
 
 </div>
@@ -1042,22 +1042,64 @@ margin-left: -4%;
 
 <h2 id="technologies-dependencies">Technologies/dependencies:</h2>
 
-<p>C++ (mostly C++98), OpenGL, Bullet physics, SDL, stdlib, make.</p>
+<p>Android, Java, <a href="https://github.com/ytai/ioio">IOIO</a>, Gradle</p>
 
 <h2 id="description">Description:</h2>
 
-<p>The bulk of the engine was written during my mid-career &ldquo;gap year&rdquo; in 2012. It uses the least amount of dependencies I was comfortable with (read: hardly any). Engine development was done in parallel to the &ldquo;Run&rdquo; demo (2.5D side scrolling shooter).</p>
+<p>FarmHand is a multifunction monitor targeted at agricultural applications. It is designed as a compliment to certain agricultural tasks including, but not limited to planting, fertiliser application, and spraying.</p>
+
+<p>FarmHand is an Android application which works in tandem with IOIO hardware. Communication takes place over USB using Android OpenAccessory. While the current backend service is coupled to IOIO hardware and SDKs, the business logic is general enough that other similar hardware could be swapped out in the future.</p>
 
 <h2 id="features">Features:</h2>
 
+<p>FarmHand can be configured to track the following:</p>
+
 <ul>
-<li>Cross-platform targets (OS X, Linux, Windows/mingw)</li>
-<li>Renderer separated from engine logic to allow for multiple renderers (OpenGL/OpenGL ES, and others). Implemented using visitor/scene graph.</li>
-<li>Landscape defined as mathematic functions</li>
-<li>Animation support: tween animation (with support for functions to define transformation), flip book animation</li>
-<li>Primitive camera follow.</li>
-<li>Animated menu/titles</li>
+<li>Time</li>
+<li>Speed</li>
+<li>Distance</li>
+<li>Area</li>
+<li>Bin/tank levels</li>
 </ul>
+
+<p>Measurements for the above are calculated over different intervals (instantaneous, trip and job). And in units of the users choice (metric, imperial or a mix of both).</p>
+
+<p><figure>
+    <img src="https://fox015.github.io/projects/farmhand/images/IMG_9644.jpg"/> <figcaption>
+            <h4>Second prototype</h4>
+        </figcaption>
+</figure>
+
+<figure>
+    <img src="https://fox015.github.io/projects/farmhand/images/IMG_9635.jpg"/> <figcaption>
+            <h4>Breakout box internals</h4>
+        </figcaption>
+</figure>
+
+<figure>
+    <img src="https://fox015.github.io/projects/farmhand/images/IMG_9650.jpg"/> <figcaption>
+            <h4>Installed in tractor cab</h4>
+        </figcaption>
+</figure>
+
+<figure>
+    <img src="https://fox015.github.io/projects/farmhand/images/IMG_9652.jpg"/> <figcaption>
+            <h4>Alongside other instruments/telemetry</h4>
+        </figcaption>
+</figure>
+
+<figure>
+    <img src="https://fox015.github.io/projects/farmhand/images/IMG_9588.jpg"/> <figcaption>
+            <h4>Tractor with billet planter in paddock</h4>
+        </figcaption>
+</figure>
+
+<figure>
+    <img src="https://fox015.github.io/projects/farmhand/images/IMG_9618.jpg"/> <figcaption>
+            <h4>Initial prototype</h4>
+        </figcaption>
+</figure>
+</p>
 
 
             </div>

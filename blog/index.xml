@@ -6,10 +6,19 @@
     <description>Recent content in Blog on Sleep Forever</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 04 Feb 2019 21:39:13 +1000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Feb 2019 07:59:37 +1000</lastBuildDate>
     
 	<atom:link href="https://fox015.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Game</title>
+      <link>https://fox015.github.io/blog/game/</link>
+      <pubDate>Tue, 12 Feb 2019 07:59:37 +1000</pubDate>
+      
+      <guid>https://fox015.github.io/blog/game/</guid>
+      <description>Towards the end of 2011 the company I was working for was looking to shed some of its workforce starting with a round of voluntary redudancies. I hadn&amp;rsquo;t enjoyed the position for years, and so I was one of the first to put up my hands to take the redundancy. In the final weeks of the position, I prepared for what was to become my &amp;ldquo;gap year&amp;rdquo; - a year to idle back and focus on something I&amp;rsquo;d wanted to do for a long time; try to build a game engine.</description>
+    </item>
     
     <item>
       <title>A presence</title>
