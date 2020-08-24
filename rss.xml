@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Sleep Forever]]></title><description><![CDATA[Reflection and projects.]]></description><link>https:/fox015.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 24 Aug 2020 11:25:36 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><link>https:/fox015.github.io/ps2/</link><guid isPermaLink="false">https:/fox015.github.io/ps2/</guid><content:encoded></content:encoded></item><item><title><![CDATA[Resume]]></title><description><![CDATA[EMPLOYMENT HISTORY 08/2018 – 11/2018 Expedia Group (Trover) - Brisbane, QLD (https://www.expediagroup.com) Snr Software Engineer (Android…]]></description><link>https:/fox015.github.io/resume/</link><guid isPermaLink="false">https:/fox015.github.io/resume/</guid><pubDate>Sun, 14 Apr 2019 02:35:39 GMT</pubDate><content:encoded>&lt;h2&gt;EMPLOYMENT HISTORY&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;08/2018 – 11/2018&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Expedia Group (Trover) - Brisbane, QLD (&lt;a href=&quot;https://www.expediagroup.com&quot;&gt;https://www.expediagroup.com&lt;/a&gt;)&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Snr Software Engineer (Android) &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.trover&quot;&gt;https://play.google.com/store/apps/details?id=com.trover&lt;/a&gt;&lt;/strong&gt;  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Internal 3 month rotation into Trover team to lead the development effort to update and modernise the Trover app (travel photo sharing), which had been in maintenance mode for 3 years focusing on an increase in community engagement.&lt;/li&gt;
+&lt;li&gt;Part of a skeleton development team working remotely from 5 locations across the USA and Australia (4 time zones).&lt;/li&gt;
+&lt;li&gt;Moved average Play Store review score from 3.75 to 4.3 stars in the space of 3 months.&lt;/li&gt;
+&lt;li&gt;Lead prioritisation and development to update internal architecture and dependencies - unblocking the ability for the team to release the app to the Play Store.&lt;/li&gt;
+&lt;li&gt;Lead the redesign of app main screen and navigation using modern UI paradigms and toolkits.&lt;/li&gt;
+&lt;li&gt;Piecemeal conversion of 2012 era Java codebase to Kotlin.&lt;/li&gt;
+&lt;li&gt;Android Studio (IntelliJ) based development. Gradle build scripting.&lt;/li&gt;
+&lt;li&gt;UX design/prototyping using Sketch.&lt;/li&gt;
+&lt;li&gt;Installed CI/CD pipeline into release flow using CircleCI.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;11/2014 – Present&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Expedia Group (Partner Central) - Brisbane, QLD (&lt;a href=&quot;https://www.expediagroup.com&quot;&gt;https://www.expediagroup.com&lt;/a&gt;)&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Snr Software Engineer (Android): 03/2018 - Present&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Software Engineer II (Android): 11/2014 - 03/2018&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.expediapartnercentral&quot;&gt;https://play.google.com/store/apps/details?id=com.expediapartnercentral&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead Android developer for the Partner Central hotelier extranet app, leveraging a close working relationship with product managers and the UX team.&lt;/li&gt;
+&lt;li&gt;Mentoring of junior developers, including regular 1:1s.&lt;/li&gt;
+&lt;li&gt;Modern Android development using Kotlin/Java and Android Architecture Components.&lt;/li&gt;
+&lt;li&gt;Hybrid app development including use of both Android native, and web views.&lt;/li&gt;
+&lt;li&gt;Lead the initiative of using a custom token authentication mechanism across both Android and iOS, including secure storage of user credentials for the Android platform.&lt;/li&gt;
+&lt;li&gt;Test driven development (TDD) against a suite of unit and integration tests.&lt;/li&gt;
+&lt;li&gt;Instrumental in the setup and configuration of CI/CD pipeline using Jetbrains TeamCity.&lt;/li&gt;
+&lt;li&gt;Cross platform development of some screens using React Native. Later conversion to vanilla ReactJS (web).&lt;/li&gt;
+&lt;li&gt;Android Studio (IntelliJ) based development. Gradle build scripting.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;02/2013 – 10/2014&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Wahoo Fitness - Atlanta, GA (&lt;a href=&quot;http://www.wahoofitness.com&quot;&gt;http://www.wahoofitness.com&lt;/a&gt;)&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Android Developer (Lead) &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.wahoofitness.fitness&quot;&gt;https://play.google.com/store/apps/details?id=com.wahoofitness.fitness&lt;/a&gt;&lt;/strong&gt;  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead the development effort to port the Wahoo Fitness workout tracker app from iOS to Android while inheriting partially implemented code base.&lt;/li&gt;
+&lt;li&gt;Managed team of 3 external contractors in US while working out of Brisbane, Australia.&lt;/li&gt;
+&lt;li&gt;Modern fragment-based UI development following Android design guidelines (targeting API 16+).&lt;/li&gt;
+&lt;li&gt;Bluetooth Smart (Low Energy) development to communicate with Bluetooth GATT devices.&lt;/li&gt;
+&lt;li&gt;Implemented authentication and sharing to web services using OAuth2.&lt;/li&gt;
+&lt;li&gt;Both Eclipse and Android Studio (IntelliJ) development. Gradle build scripting.&lt;/li&gt;
+&lt;li&gt;Distributed source control using Git.&lt;/li&gt;
+&lt;li&gt;Release management to Google Play production and beta channels.&lt;/li&gt;
+&lt;li&gt;Graphic design for application art assets.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;11/2011 – 10/2012&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Self Employed - Coorparoo, QLD&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Lead Developer&lt;/strong&gt;  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Development of custom game engine from scratch in C++ using OpenGL and Bullet Physics libraries.&lt;/li&gt;
+&lt;li&gt;Cross platform development using SDL.&lt;/li&gt;
+&lt;li&gt;Use of best practice design techniques and patterns including platform independent renderer (using Visitor pattern), entity component architectures (Composite patterns).&lt;/li&gt;
+&lt;li&gt;Designed and implemented own scene graph.&lt;/li&gt;
+&lt;li&gt;Designed and implemented own generic animation subsystem.&lt;/li&gt;
+&lt;li&gt;Use of 3D maths – vectors, matrices, quaternions, trigonometry.&lt;/li&gt;
+&lt;li&gt;Implemented own build system (using makefiles) that detects and builds across multiple platforms (OS X, mingw, and Ubuntu environments).&lt;/li&gt;
+&lt;li&gt;Host development on Mac OS X. Initial development on Ubuntu (8.04 to 10.04).&lt;/li&gt;
+&lt;li&gt;Source control using Git. Both local and remote repository administration.&lt;/li&gt;
+&lt;li&gt;Mediawiki setup and administration on Ubuntu 10.04.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;10/2009 – 09/2011&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Invensys Rail – Eight Mile Plains, QLD&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Software Engineer&lt;/strong&gt;  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Member of software team in onboard systems group developing second-generation Automatic Train Protection system. Product written in Ada, test simulator in Delphi.&lt;/li&gt;
+&lt;li&gt;Ported prototype application scheduling program from Windows to Ubuntu Linux environment using pthreads, POSIX semaphores and some x86 assembly. Some exposure to VxWorks.&lt;/li&gt;
+&lt;li&gt;Primary maintainer of build system (makefiles).&lt;/li&gt;
+&lt;li&gt;Wrote many tools for auditing purposes (code counting, coverage testing) in Java SE.&lt;/li&gt;
+&lt;li&gt;Performed bug fixing/investigation on an unfamiliar software system during last phases of development under intense pressure to release.&lt;/li&gt;
+&lt;li&gt;Administered automated test system in preparation for formal validation.&lt;/li&gt;
+&lt;li&gt;Build manager – IBM Telelogic Synergy. Created release builds for software in high pressure periods, including many late nights. Wrote numerous scripts to query change control system to create reports for team leader.&lt;/li&gt;
+&lt;li&gt;Maintained CruiseControl projects to keep automated build system working.&lt;/li&gt;
+&lt;li&gt;Mediawiki setup and administration.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;08/2006 – 10/2009&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Invensys Rail – Eight Mile Plains, QLD&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Software Engineer&lt;/strong&gt;  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Key member of core team implementing and maintaining main SCADA control centre product “SystematICS”, targeted to control centres for the railway industry, used across multiple business units. Product written for UNIX/Linux almost entirely in C++, with some parts written in C.&lt;/li&gt;
+&lt;li&gt;Stood in for team leader when absent, both long term (weeks), and short term.&lt;/li&gt;
+&lt;li&gt;Implemented HTTP-based subscription protocol client (C++).&lt;/li&gt;
+&lt;li&gt;Maintained TCP/IP connection handling code.&lt;/li&gt;
+&lt;li&gt;Designed and implemented Java server (using Apache Tomcat) for HTTP subscription protocol.&lt;/li&gt;
+&lt;li&gt;Documentation duties including User Requirements, Software Requirements, Software Module Design Specifications, and developer API tutorials.&lt;/li&gt;
+&lt;li&gt;Build/release management responsibilities using IBM Telelogic Synergy source code management tool.&lt;/li&gt;
+&lt;li&gt;Performed critical build responsibilities at software release time.&lt;/li&gt;
+&lt;li&gt;Prepared reports for software release notes.&lt;/li&gt;
+&lt;li&gt;VBA development for Microsoft Access based SCADA system configuration application.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;06/2005 – 08/2006&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;App-Tek International – Brendale, QLD&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Firmware Engineer&lt;/strong&gt;  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Design and implementation of firmware for company’s flagship product as part of a small team.&lt;/li&gt;
+&lt;li&gt;Embedded C development on MSP430 platform using Rowley Associates CrossWorks compiler and IDE.&lt;/li&gt;
+&lt;li&gt;Design of structured modular firmware product with clear interfaces between software components.&lt;/li&gt;
+&lt;li&gt;Formal documentation of firmware modules including traceability to system requirements.&lt;/li&gt;
+&lt;li&gt;Full source code documentation using Doxygen documentation generation software.&lt;/li&gt;
+&lt;li&gt;Concurrent development using Subversion (SVN) source control.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;03/2004 – 08/2006&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;App-Tek International – Brendale, QLD&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Systems Development Engineer&lt;/strong&gt;  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Development and deployment of custom online document control system across R&amp;#x26;D, QA, and Production departments in C#/ASP.NET (web-based intranet). Development in Visual Studio .NET 2003.&lt;/li&gt;
+&lt;li&gt;Development of online Request for Change system for R&amp;#x26;D department (including task assignment and notification functionality).&lt;/li&gt;
+&lt;li&gt;Bridging of existing parts/product database to document control system to provide online access to released part drawings for use in production department.&lt;/li&gt;
+&lt;li&gt;Upgraded existing MS Access based parts/product database to SQL Server.&lt;/li&gt;
+&lt;li&gt;Extended functionality of existing parts/product database to allow for full Bill of Materials structure/breakdown.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;03/2003 – 06/2003&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Creative Audio (Now Biamp) – Windsor, QLD&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Student Engineer (university industry placement)&lt;/strong&gt;  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed a graphical configuration application for the next generation of public address hardware.&lt;/li&gt;
+&lt;li&gt;Development in Visual Studio .NET (C++) using Microsoft Foundation Class Library.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;PROJECTS&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Oct 2018 - Present&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Wireless cage monitor&lt;/strong&gt;  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cloud connected hardware to monitor pet cage status/health (door status and location).&lt;/li&gt;
+&lt;li&gt;Android Things monitoring software (Kotlin) deployed on Raspberry Pi hardware.&lt;/li&gt;
+&lt;li&gt;Android client app (Kotlin) for display of status and receiving push notifications.&lt;/li&gt;
+&lt;li&gt;Firebase Cloud Function (TypeScript) to listen for monitor updates, and generation of FCM push notifications when necessary.&lt;/li&gt;
+&lt;li&gt;Solar powered battery and waterproof case for fully autonomous operation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Dec 2014 - Present&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Multi-function monitor for agriculture - “FarmHand”&lt;/strong&gt;  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Android app to monitor hardware inputs from tractor/implements (speed, area, bin and tank levels).&lt;/li&gt;
+&lt;li&gt;External sensor monitoring using IOIO-based hardware (&lt;a href=&quot;https://github.com/ytai/ioio&quot;&gt;https://github.com/ytai/ioio&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;Background session processing using Android services.&lt;/li&gt;
+&lt;li&gt;Session/job management.&lt;/li&gt;
+&lt;li&gt;Alarm management: low/high alarms, snoozing.&lt;/li&gt;
+&lt;li&gt;Support for various hardware configurations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Oct 2011 - Present (See employment above, Nov 2011 – Oct 2012)&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Game / 3D Engine - “Run”&lt;/strong&gt;  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Side scrolling shooter.&lt;/li&gt;
+&lt;li&gt;2 dimensional gameplay using 3D world/engine.&lt;/li&gt;
+&lt;li&gt;Run and gun with vehicles.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Dec 2010 - Present&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Particle engine - “ParticleArt”&lt;/strong&gt;  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dynamic art creation application using simple shapes (points, lines, bezier curves), particle emitters, and emitter boundaries.&lt;/li&gt;
+&lt;li&gt;Cross-platform architecture (Java: Android/Desktop).&lt;/li&gt;
+&lt;li&gt;Developed with OpenGL ES 2.0 (using vertex/fragment shaders, point sprites).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;EDUCATION&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;1999 - 2003:&lt;/strong&gt;  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Griffith University - Bachelor of Microelectronic Engineering/Bachelor of Information Technology.&lt;/li&gt;
+&lt;li&gt;Graduated from dual degree. Computer Systems (Eng), Computer Science (IT).&lt;/li&gt;
+&lt;li&gt;GPA 5.14 (Scale 1-7, 7 being highest).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;1994 - 1998:&lt;/strong&gt;  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ingham State High School – completed year 12.&lt;/li&gt;
+&lt;li&gt;Overall position (OP) of 3 (Scale 1-25, 1 being highest).&lt;/li&gt;
+&lt;li&gt;Awarded subject prize for Physics.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;COMPETENCIES&lt;/h2&gt;
+&lt;h3&gt;Professional Experience&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Proficient in Java, Android framework, C/C++ (including STL and boost libraries), Unix shell scripting (bash, ksh, regex), C#, ASP.NET, XML/XSLT, Visual Basic, SQL, ADO.NET, MS Access development (VBA), HTML.&lt;/li&gt;
+&lt;li&gt;Moderate experience in Embedded C, Ada, Delphi/Pascal, MS Office Automation.&lt;/li&gt;
+&lt;li&gt;Some experience in Objective-C/Cocoa Touch (porting from iOS to Android), x86 Assembly, Perl.&lt;/li&gt;
+&lt;li&gt;Proficient with Linux/UNIX (Ubuntu/Debian, Mac OS X/BSD, Solaris, Redhat), Microsoft Windows/DOS.&lt;/li&gt;
+&lt;li&gt;Proficient with GCC toolchain + vi, Netbeans, Eclipse, Android Studio (Intelli J).&lt;/li&gt;
+&lt;li&gt;Competent with Microsoft Visual Studio, CrossWorks for MSP430 (embedded C).&lt;/li&gt;
+&lt;li&gt;Source code control using Git, IBM/Telelogic Synergy, Subversion.&lt;/li&gt;
+&lt;li&gt;Comprehensive knowledge of Microsoft Office, experience with Microsoft Project.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Non-professional Experience (Hobbyist)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;OpenGL, Objective-C/Cocoa, PS2 Linux (EE and GS programming), JavaScript, MIPS Assembly.&lt;/li&gt;
+&lt;li&gt;Demo application available on request.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;INTERESTS&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Music:&lt;/strong&gt; songwriting, guitar, band (&lt;a href=&quot;https://www.facebook.com/leavenmusic&quot;&gt;https://www.facebook.com/leavenmusic&lt;/a&gt;, &lt;a href=&quot;http://leaven.bandcamp.com&quot;&gt;http://leaven.bandcamp.com&lt;/a&gt;)&lt;br&gt;
+&lt;strong&gt;Computers:&lt;/strong&gt; user interface design, computer graphics, game development, computer architecture, computer history.&lt;br&gt;
+&lt;strong&gt;Other (misc):&lt;/strong&gt; architecture, story/scriptwriting, film/video production, electronics, cars (body work, engines).  &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Farmhand: A multi-function monitor for precision agriculture]]></title><description><![CDATA[Technologies/dependencies: Android, Java, IOIO, Gradle Description: FarmHand is a multifunction monitor targeted at agricultural…]]></description><link>https:/fox015.github.io/farmhand/</link><guid isPermaLink="false">https:/fox015.github.io/farmhand/</guid><pubDate>Wed, 13 Feb 2019 11:32:03 GMT</pubDate><content:encoded>&lt;h2&gt;Technologies/dependencies:&lt;/h2&gt;
+&lt;p&gt;Android, Java, &lt;a href=&quot;https://github.com/ytai/ioio&quot;&gt;IOIO&lt;/a&gt;, Gradle&lt;/p&gt;
+&lt;h2&gt;Description:&lt;/h2&gt;
+&lt;p&gt;FarmHand is a multifunction monitor targeted at agricultural applications. It is designed as a compliment to certain agricultural tasks including, but not limited to planting, fertiliser application, and spraying.&lt;/p&gt;
+&lt;p&gt;FarmHand is an Android application which works in tandem with IOIO hardware. Communication takes place over USB using Android OpenAccessory. While the current backend service is coupled to IOIO hardware and SDKs, the business logic is general enough that other similar hardware could be swapped out in the future.&lt;/p&gt;
+&lt;h2&gt;Features:&lt;/h2&gt;
+&lt;p&gt;FarmHand can be configured to track the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Time&lt;/li&gt;
+&lt;li&gt;Speed&lt;/li&gt;
+&lt;li&gt;Distance&lt;/li&gt;
+&lt;li&gt;Area&lt;/li&gt;
+&lt;li&gt;Bin/tank levels&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Measurements for the above are calculated over different intervals (instantaneous, trip and job). And in units of the users choice (metric, imperial or a mix of both).&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/5946c0b1c29fc8848161d00e98fb986c/eea4a/IMG_9644.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAFKTbzUWY//xAAbEAACAwADAAAAAAAAAAAAAAABAwIEEQATIf/aAAgBAQABBQJtnrbugcdXEp5i4+D/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAdEAACAQQDAAAAAAAAAAAAAAAAARECEiFRIjFB/9oACAEBAAY/ArbZOPpnsVdzMOHsy5ez/8QAGRABAQEBAQEAAAAAAAAAAAAAAREAIUEx/9oACAEBAAE/IWCQ4rdZIL8C7s4g45sFCSaoOHTOET2Xu//aAAwDAQACAAMAAAAQm8//xAAVEQEBAAAAAAAAAAAAAAAAAAAQQf/aAAgBAwEBPxCH/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8QZ//EABsQAQEBAAMBAQAAAAAAAAAAAAERACFRYTFx/9oACAEBAAE/ECsicBeesP8An+EF7clSwQGlPcrxBGhgtzzjcQMQ9yZyKAFP5v/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Second prototype&quot;
+        title=&quot;Second prototype&quot;
+        src=&quot;/static/5946c0b1c29fc8848161d00e98fb986c/1c72d/IMG_9644.jpg&quot;
+        srcset=&quot;/static/5946c0b1c29fc8848161d00e98fb986c/a80bd/IMG_9644.jpg 148w,
+/static/5946c0b1c29fc8848161d00e98fb986c/1c91a/IMG_9644.jpg 295w,
+/static/5946c0b1c29fc8848161d00e98fb986c/1c72d/IMG_9644.jpg 590w,
+/static/5946c0b1c29fc8848161d00e98fb986c/a8a14/IMG_9644.jpg 885w,
+/static/5946c0b1c29fc8848161d00e98fb986c/fbd2c/IMG_9644.jpg 1180w,
+/static/5946c0b1c29fc8848161d00e98fb986c/eea4a/IMG_9644.jpg 1280w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8c2432f457f89982ed32bc9a47460297/6a068/IMG_9635.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMCBAUG/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEC/9oADAMBAAIQAxAAAAGsoie9ASGtNaxh6Yyy3//EABwQAAICAgMAAAAAAAAAAAAAAAECAAMRMQQhMv/aAAgBAQABBQKxmEXkNMx/IIFcZhgtmJSjK2xoHr//xAAYEQACAwAAAAAAAAAAAAAAAAAAEQEQIf/aAAgBAwEBPwFy70//xAAZEQACAwEAAAAAAAAAAAAAAAAAEQEQEiH/2gAIAQIBAT8BzCFXD//EABsQAAMAAgMAAAAAAAAAAAAAAAABEQIQICFB/9oACAEBAAY/ArizvG6Y161qMpbw/8QAHBAAAgIDAQEAAAAAAAAAAAAAAAERITFBcbFR/9oACAEBAAE/IfnDRho4LopanwjdxCdEgyRlzmaF31Mh6Dtj/9oADAMBAAIAAwAAABBv0sz/xAAXEQEBAQEAAAAAAAAAAAAAAAABEQBR/9oACAEDAQE/EElHXWqadb//xAAZEQADAAMAAAAAAAAAAAAAAAAAAREQIVH/2gAIAQIBAT8Q0KsUi8H/xAAeEAEBAQABBAMAAAAAAAAAAAABEQAxIUGhwVFhcf/aAAgBAQABPxDhiFWLc4QQVaIYgeKYSLR5VM3nX18PeWPzUBXeHPEDLrKSPYz2VfgbzNyfR94Yi3//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Breakout box internals&quot;
+        title=&quot;Breakout box internals&quot;
+        src=&quot;/static/8c2432f457f89982ed32bc9a47460297/1c72d/IMG_9635.jpg&quot;
+        srcset=&quot;/static/8c2432f457f89982ed32bc9a47460297/a80bd/IMG_9635.jpg 148w,
+/static/8c2432f457f89982ed32bc9a47460297/1c91a/IMG_9635.jpg 295w,
+/static/8c2432f457f89982ed32bc9a47460297/1c72d/IMG_9635.jpg 590w,
+/static/8c2432f457f89982ed32bc9a47460297/a8a14/IMG_9635.jpg 885w,
+/static/8c2432f457f89982ed32bc9a47460297/6a068/IMG_9635.jpg 960w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a44e0e7f8e377699d11597ab486dde69/6a068/IMG_9650.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEAMQAAABgXWxJRQOjLtOhROW/wD/xAAdEAACAgIDAQAAAAAAAAAAAAABAgADEjIQESMz/9oACAEBAAEFAmJnpwFKu+uQlwyAbtiRKPnQBjZv/8QAFhEAAwAAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/AXT/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAeEAABAwQDAAAAAAAAAAAAAAABABARAhIhgRMicv/aAAgBAQAGPwLDi6mJRblEntGlZnJbZR9FFf/EACAQAAICAgAHAAAAAAAAAAAAAAABESExUUFhcYGR4fD/2gAIAQEAAT8hQW5hLwuRIj3MjyOlHo6xKSFMDhRROhN0vCKLHwzCl7Bn3j//2gAMAwEAAgADAAAAEEAMzv/EABcRAQADAAAAAAAAAAAAAAAAAAAQEXH/2gAIAQMBAT8QVGX/xAAWEQADAAAAAAAAAAAAAAAAAAABEBH/2gAIAQIBAT8QAqq//8QAHRABAAMAAgMBAAAAAAAAAAAAAQARITFBYXGRgf/aAAgBAQABPxAoEW9lxoirRksXE2YGayGY77ADj8TG6aOwBQ/b+zRYIRdLI1BrwAzgAdZ7wj7N6l9o7XihWT//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Installed in tractor cab&quot;
+        title=&quot;Installed in tractor cab&quot;
+        src=&quot;/static/a44e0e7f8e377699d11597ab486dde69/1c72d/IMG_9650.jpg&quot;
+        srcset=&quot;/static/a44e0e7f8e377699d11597ab486dde69/a80bd/IMG_9650.jpg 148w,
+/static/a44e0e7f8e377699d11597ab486dde69/1c91a/IMG_9650.jpg 295w,
+/static/a44e0e7f8e377699d11597ab486dde69/1c72d/IMG_9650.jpg 590w,
+/static/a44e0e7f8e377699d11597ab486dde69/a8a14/IMG_9650.jpg 885w,
+/static/a44e0e7f8e377699d11597ab486dde69/6a068/IMG_9650.jpg 960w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/fde437eb1e447d323a4286506b449f32/eea4a/IMG_9652.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHOTfJDigP/xAAaEAACAgMAAAAAAAAAAAAAAAABAgASAxEi/9oACAEBAAEFAq4TK9DA2mIqrd7n/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAHRAAAQIHAAAAAAAAAAAAAAAAAQAxAhAREiFBgf/aAAgBAQAGPwJ4xxWjKcBEbpP/xAAaEAEAAwEBAQAAAAAAAAAAAAABABExIXGB/9oACAEBAAE/IQe36J3gOLyPD4lgad9CFSzgOStCuk//2gAMAwEAAgADAAAAEOjf/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8QR//EABURAQEAAAAAAAAAAAAAAAAAABEA/9oACAECAQE/EFm//8QAHRABAAICAgMAAAAAAAAAAAAAAQARITFBYVFx4f/aAAgBAQABPxDPejLNdVB3txp5BzXEys3jp7Kim0DouYkCjTr5CzIg6n//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Alongside other instruments/telemetry&quot;
+        title=&quot;Alongside other instruments/telemetry&quot;
+        src=&quot;/static/fde437eb1e447d323a4286506b449f32/1c72d/IMG_9652.jpg&quot;
+        srcset=&quot;/static/fde437eb1e447d323a4286506b449f32/a80bd/IMG_9652.jpg 148w,
+/static/fde437eb1e447d323a4286506b449f32/1c91a/IMG_9652.jpg 295w,
+/static/fde437eb1e447d323a4286506b449f32/1c72d/IMG_9652.jpg 590w,
+/static/fde437eb1e447d323a4286506b449f32/a8a14/IMG_9652.jpg 885w,
+/static/fde437eb1e447d323a4286506b449f32/fbd2c/IMG_9652.jpg 1180w,
+/static/fde437eb1e447d323a4286506b449f32/eea4a/IMG_9652.jpg 1280w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f530c79dc174e79c8e63eb9986fa9def/eea4a/IMG_9588.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAf/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/9oADAMBAAIQAxAAAAFsQxGsTQ3/xAAaEAACAgMAAAAAAAAAAAAAAAAAAQIDERIT/9oACAEBAAEFAtoIjfHPStkq3nkzQ//EABURAQEAAAAAAAAAAAAAAAAAAAAS/9oACAEDAQE/AZQ//8QAFhEBAQEAAAAAAAAAAAAAAAAAABIB/9oACAECAQE/AaVr/8QAGBAAAwEBAAAAAAAAAAAAAAAAABAyMVH/2gAIAQEABj8Co4UtX//EABwQAQADAAIDAAAAAAAAAAAAAAEAESExUXGBkf/aAAgBAQABPyGnaPETRx3AF09xuA+wELGbxABoM//aAAwDAQACAAMAAAAQwA//xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQMBAT8QksP/xAAWEQEBAQAAAAAAAAAAAAAAAAABEDH/2gAIAQIBAT8QW7D/xAAbEAEBAQEBAAMAAAAAAAAAAAABEQAhQZGxwf/aAAgBAQABPxBng/Ld4xtN+sIivgRySkeTqYgNXBWICR7J+7//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Tractor with billet planter in paddock&quot;
+        title=&quot;Tractor with billet planter in paddock&quot;
+        src=&quot;/static/f530c79dc174e79c8e63eb9986fa9def/1c72d/IMG_9588.jpg&quot;
+        srcset=&quot;/static/f530c79dc174e79c8e63eb9986fa9def/a80bd/IMG_9588.jpg 148w,
+/static/f530c79dc174e79c8e63eb9986fa9def/1c91a/IMG_9588.jpg 295w,
+/static/f530c79dc174e79c8e63eb9986fa9def/1c72d/IMG_9588.jpg 590w,
+/static/f530c79dc174e79c8e63eb9986fa9def/a8a14/IMG_9588.jpg 885w,
+/static/f530c79dc174e79c8e63eb9986fa9def/fbd2c/IMG_9588.jpg 1180w,
+/static/f530c79dc174e79c8e63eb9986fa9def/eea4a/IMG_9588.jpg 1280w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c1b6ed944e74952fe514b4db4fad20dd/6a068/IMG_9618.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEBQL/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAU3RqzdEcVmJb1m0AH//xAAeEAACAwABBQAAAAAAAAAAAAACAwABEgQRISIyQv/aAAgBAQABBQIuS4osq5C+upmgoCKrQWlP7X8KWvAeUqB6/wD/xAAWEQADAAAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8BcP/EABYRAQEBAAAAAAAAAAAAAAAAAAAREP/aAAgBAgEBPwHKr//EACEQAAIBAwMFAAAAAAAAAAAAAAABEQIQIQQScRMxMkJR/9oACAEBAAY/ApWOCV5ol6eeLdSjEdyUR9NvqZQ3Vljt/8QAHhABAAEEAgMAAAAAAAAAAAAAAQARITFBUWEQcdH/2gAIAQEAAT8hviHiMBsfT8iwMSZoZdAr26iKlpcynIZbcXhE3ugLcLtSk1F9wU3xuY+F/9oADAMBAAIAAwAAABBnDkH/xAAXEQADAQAAAAAAAAAAAAAAAAABEBEh/9oACAEDAQE/EIgMT//EABYRAQEBAAAAAAAAAAAAAAAAAAEQIf/aAAgBAgEBPxAdjD//xAAgEAEAAgEDBQEAAAAAAAAAAAABABEhMUFRYXGBkaGx/9oACAEBAAE/EAwPyFl95l4E7S9rXqtIKnTcD5sfcDcDaFnkMPSvaYDudYNWnzCa+zHZChxnWNliGhm+IS6Cq2PyFmyVXeK7Nyo6Hef/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Initial prototype&quot;
+        title=&quot;Initial prototype&quot;
+        src=&quot;/static/c1b6ed944e74952fe514b4db4fad20dd/1c72d/IMG_9618.jpg&quot;
+        srcset=&quot;/static/c1b6ed944e74952fe514b4db4fad20dd/a80bd/IMG_9618.jpg 148w,
+/static/c1b6ed944e74952fe514b4db4fad20dd/1c91a/IMG_9618.jpg 295w,
+/static/c1b6ed944e74952fe514b4db4fad20dd/1c72d/IMG_9618.jpg 590w,
+/static/c1b6ed944e74952fe514b4db4fad20dd/a8a14/IMG_9618.jpg 885w,
+/static/c1b6ed944e74952fe514b4db4fad20dd/6a068/IMG_9618.jpg 960w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Game]]></title><description><![CDATA[Towards the end of 2011 the company I was working for was looking to shed some of its workforce starting with a round of voluntary…]]></description><link>https:/fox015.github.io/game/</link><guid isPermaLink="false">https:/fox015.github.io/game/</guid><pubDate>Mon, 11 Feb 2019 21:59:37 GMT</pubDate><content:encoded>&lt;p&gt;Towards the end of 2011 the company I was working for was looking to shed some of its workforce starting with a round of voluntary redudancies. I hadn’t enjoyed the position for years, and so I was one of the first to put up my hands to take the redundancy. In the final weeks of the position, I prepared for what was to become my “gap year” - a year to idle back and focus on something I’d wanted to do for a long time; try to build a game engine.&lt;/p&gt;
+&lt;p&gt;In the 12 months leading up to this event I’d had an interesting turn of events - my girlfriend and I had ended a long term relationship, I’d moved into share housing, and I was enjoying all the newfound freedoms that came with this type of arrangements. I no longer had a job, and my expenses were super-low.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Cross platform 2.5D side scrolling game engine]]></title><description><![CDATA[Technologies/dependencies: C++ (mostly C++98), OpenGL, Bullet physics, SDL, stdlib, make. Description: The bulk of the engine was written…]]></description><link>https:/fox015.github.io/game/game/</link><guid isPermaLink="false">https:/fox015.github.io/game/game/</guid><pubDate>Sat, 09 Feb 2019 04:46:03 GMT</pubDate><content:encoded>&lt;h2&gt;Technologies/dependencies:&lt;/h2&gt;
+&lt;p&gt;C++ (mostly C++98), OpenGL, Bullet physics, SDL, stdlib, make.&lt;/p&gt;
+&lt;h2&gt;Description:&lt;/h2&gt;
+&lt;p&gt;The bulk of the engine was written during my mid-career “gap year” in 2012. It uses the least amount of dependencies I was comfortable with (read: hardly any). Engine development was done in parallel to the “Run” demo (2.5D side scrolling shooter).&lt;/p&gt;
+&lt;h2&gt;Features:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Cross-platform targets (OS X, Linux, Windows/mingw)&lt;/li&gt;
+&lt;li&gt;Renderer separated from engine logic to allow for multiple renderers (OpenGL/OpenGL ES, and others). Implemented using visitor/scene graph.&lt;/li&gt;
+&lt;li&gt;Landscape defined as mathematic functions&lt;/li&gt;
+&lt;li&gt;Animation support: tween animation (with support for functions to define transformation), flip book animation&lt;/li&gt;
+&lt;li&gt;Primitive camera follow.&lt;/li&gt;
+&lt;li&gt;Animated menu/titles &lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[A presence]]></title><description><![CDATA[I’ve been thinking about the best place on the web to talk about some of the things I do for a while now, and have decided to just bite the…]]></description><link>https:/fox015.github.io/first/</link><guid isPermaLink="false">https:/fox015.github.io/first/</guid><pubDate>Mon, 04 Feb 2019 11:39:13 GMT</pubDate><content:encoded>&lt;p&gt;I’ve been thinking about the best place on the web to talk about some of the things I do for a while now, and have decided to just bite the bullet and build a blog.&lt;/p&gt;
+&lt;p&gt;After a short amount of research I decided to go with &lt;a href=&quot;https://gohugo.io&quot;&gt;Hugo&lt;/a&gt;, and I’m currently hosting this using Github pages (I’ll sort out a custom domain soon). I like the idea of static site generation tools combined with markdown, and Hugo seems faster than Jekyll (from the small amount of reading I did).&lt;/p&gt;
+&lt;p&gt;Some might ask &lt;em&gt;“why not Medium?”&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I’m not sure I like how public Medium is (for my content anyway).&lt;/li&gt;
+&lt;li&gt;I figure what I have to say isn’t that important.&lt;/li&gt;
+&lt;li&gt;Not everything is going to be technical/informative, some of it may end up just deeply personal, or (more than likely) rants.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Other reasons:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I wanted to experiment with static site creation tools, as they seem way more compelling than something like Wordpress.&lt;/li&gt;
+&lt;li&gt;I yearn for the days of the old web - a time before Facebook, Twitter and what I feel has been the massive de-personalisation of the web.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This will be a place to share my projects (or the ones I’m interested in making public at least) and maybe some opinions. No doubt some of the content will be old projects that I’m just getting around to documenting now.&lt;/p&gt;
+&lt;p&gt;Should be fun. Don’t be surprised if it’s abandoned in a couple of weeks.&lt;/p&gt;</content:encoded></item></channel></rss>
