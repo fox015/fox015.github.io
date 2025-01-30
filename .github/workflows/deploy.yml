@@ -22,17 +22,21 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          
-      - name: Debugging the PAT Authentication
+
+      - name: Set up SSH key for authentication
         run: |
-          echo "GitHub token is being passed properly"
-          echo "https://x-access-token:${{ secrets.GH_PAT }}@github.com/fox015/blog-content.git"  # Just for debugging purposes
+          mkdir -p ~/.ssh
+          echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan github.com >> ~/.ssh/known_hosts
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
 
       - name: Setup Git Worktree for Content
         run: |
           # Add the blog-content repository as a worktree
           #git remote add content https://fox015:${{ secrets.GH_PAT }}@github.com/fox015/blog-content.git
-          git remote add content https://x-access-token:${{ secrets.GH_PAT }}@github.com/fox015/blog-content.git
+          git remote add content git@github.com:fox015/blog-content.git
           git fetch content main
           git worktree add src/content content/main  # Create the worktree at src/content pointing to main branch
 
