@@ -25,8 +25,10 @@ jobs:
 
       - name: Setup Git Worktree for Content
         run: |
-          git worktree add src/content https://github.com/fox015/blog-content.git
-          cd src/content && git pull origin main
+          # Add the blog-content repository as a worktree
+          git remote add content https://github.com/fox015/blog-content.git
+          git fetch content main
+          git worktree add src/content content/main  # Create the worktree at src/content pointing to main branch
 
       - name: Install Dependencies
         run: npm install
