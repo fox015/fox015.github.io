@@ -26,7 +26,7 @@ jobs:
       - name: Setup Git Worktree for Content
         run: |
           # Add the blog-content repository as a worktree
-          git remote add content https://github.com/fox015/blog-content.git
+          git remote add content https://x-access-token:${{ secrets.GH_PAT }}@github.com/fox015/blog-content.git
           git fetch content main
           git worktree add src/content content/main  # Create the worktree at src/content pointing to main branch
 
