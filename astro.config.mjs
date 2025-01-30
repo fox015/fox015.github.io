@@ -4,7 +4,7 @@ import sitemap from "@astrojs/sitemap";
 import tailwind from "@astrojs/tailwind";
 
 export default defineConfig({
-  site: "https://fox015.github.io",
+  site: "https://sleepforever.co",
   output: 'static',
   integrations: [mdx(), sitemap(), tailwind()],
 });
