@@ -40,24 +40,16 @@ jobs:
           git fetch content main
           git worktree add src/content content/main  # Create the worktree at src/content pointing to main branch
 
-      - name: Install Dependencies
-        run: npm install
-
-      - name: Build Astro Site
-        run: npm run build
-
-      - name: Upload GitHub Pages Artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: dist  # Astro outputs to "dist" by default
+      - name: Install, build, and upload your site
+        uses: withastro/action@v3
 
   deploy:
     runs-on: ubuntu-latest
     needs: build
-    permissions:
-      pages: write
-      id-token: write
-
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Deploy to GitHub Pages
+        id: deployment
         uses: actions/deploy-pages@v4
